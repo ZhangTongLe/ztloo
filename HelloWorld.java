@@ -11,6 +11,9 @@ public class HelloWorld {
         System.out.println("hello1");
 =======
         System.out.print("hello1");
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
         System.out.print("world");
     }
