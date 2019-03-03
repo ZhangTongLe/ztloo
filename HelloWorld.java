@@ -7,7 +7,11 @@ public class HelloWorld {
 
 
     public static void main(String[] args) {
+<<<<<<< HEAD
         System.out.println("hello1");
+=======
+        System.out.print("hello1");
+>>>>>>> dev
         System.out.println("world");
     }
 
