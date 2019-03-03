@@ -12,7 +12,7 @@ public class HelloWorld {
 =======
         System.out.print("hello1");
 >>>>>>> dev
-        System.out.println("world");
+        System.out.print("world");
     }
 
 
